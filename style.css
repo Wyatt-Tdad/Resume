@@ -79,3 +79,30 @@
     display: inline-block;
     text-align: left;
   }
+
+  #section3{
+    background-color: #0c2514;
+    color: #ccc;
+    text-align: center;
+  }
+
+  div.contacts {
+    text-align: center;
+  }
+  
+  ul.con {
+    display: inline-block;
+    text-align: left;
+  }
+
+  a:link{
+    color: #ccc;
+  }
+
+  a:hover{
+    color: burlywood;
+  }
+
+  a:active{
+    color: green;
+  }
