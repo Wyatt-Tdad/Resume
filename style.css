@@ -51,3 +51,31 @@
       border: 1px solid #ccc;
     }
   }
+
+  .h1{
+    text-align: center;
+  }
+
+  #section1{
+    background-color: #0c2514;
+    color: #ccc;
+    text-align: center;
+  }
+
+  #section2{
+    text-align: center;
+    color: #0c2514;
+  }
+
+  #hobbies{
+    text-align: center;
+  }
+
+  div.hobbies {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
