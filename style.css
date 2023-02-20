@@ -106,3 +106,44 @@
   a:active{
     color: green;
   }
+
+  a:visited{
+    color: #ccc;
+  }
+
+.navbar {
+  background-color: #0c2514;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: burlywood;
+}
+
+.navbar a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
