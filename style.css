@@ -57,6 +57,10 @@
     font-family: 'Gloock', serif;
   }
 
+  .p{
+    font-family: 'Roboto', sans-serif;
+  }
+
   #section1{
     background-color: #0c2514;
     color: #ccc;
